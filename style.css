@@ -1,0 +1,27 @@
+body {
+  color: purple;
+  font-family: Verdana;
+  background-color:black;
+}
+
+h1 {
+  text-align : center;
+}
+
+#imagecool {
+  position: relative;
+  text-align: center;
+  color: white;
+  font-weight: bold;
+}
+
+.ratio {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200px;
+  height: auto;
+}
+  
+
+  
