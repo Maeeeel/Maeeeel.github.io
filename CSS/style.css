@@ -31,11 +31,11 @@ h1 {
   text-align: center;
   text-decoration: none;
   outline: none;
-  color: #fff;
+  color: #11061f;
   background-color: purple;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #999;
+  box-shadow: 0 9px #110127;
 }
 
 .metalpipe:hover {
@@ -44,7 +44,7 @@ h1 {
 
 .metalpipe:active {
   background-color: #3d205f;
-  box-shadow: 0 5px #666;
+  box-shadow: 0 5px #110127;
   transform: translateY(4px);
 }
 
