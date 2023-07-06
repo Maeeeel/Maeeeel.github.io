@@ -23,33 +23,5 @@ h1 {
   height: auto;
 }
 
-.metalpipe {
-  display: inline-block;
-  padding: 15px 25px;
-  font-size: 24px;
-  cursor: pointer;
-  text-align: center;
-  text-decoration: none;
-  outline: none;
-  color: black;
-  background-color: purple;
-  border: none;
-  border-radius: 15px;
-  box-shadow: 0 9px #400479;
-}
-
-.metalpipe:hover {
-  background-color: #5f236e
-}
-
-.metalpipe:active {
-  background-color: #5f236e;
-  box-shadow: 0 5px #400479;
-  transform: translateY(4px);
-}
-
-.centrage {
-  text-align: center
-}
 
   
