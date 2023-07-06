@@ -31,20 +31,20 @@ h1 {
   text-align: center;
   text-decoration: none;
   outline: none;
-  color: #11061f;
+  color: black;
   background-color: purple;
   border: none;
   border-radius: 15px;
-  box-shadow: 0 9px #110127;
+  box-shadow: 0 9px #400479;
 }
 
 .metalpipe:hover {
-  background-color: #3d205f
+  background-color: #5f236e
 }
 
 .metalpipe:active {
-  background-color: #3d205f;
-  box-shadow: 0 5px #110127;
+  background-color: #5f236e;
+  box-shadow: 0 5px #400479;
   transform: translateY(4px);
 }
 
