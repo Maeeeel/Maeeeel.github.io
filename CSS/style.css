@@ -23,8 +23,8 @@ h1 {
   height: auto;
 }
 
-#download {
-  color:purple;
+a{
+  color : purple;
   text-decoration : none;
 }
 
