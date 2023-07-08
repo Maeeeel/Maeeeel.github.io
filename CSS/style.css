@@ -23,11 +23,9 @@ h1 {
   height: auto;
 }
 
-a {
-  text-decoration : none;
-}
 #download {
-  color:purple
+  color:purple;
+  text-decoration : none;
 }
 
 a:hover {
