@@ -33,5 +33,5 @@ a:hover {
 }
 
 .cursor{
-  cursor:url(Images/tear.png);
+  cursor: url(Images/tear.png), pointer;
 }
