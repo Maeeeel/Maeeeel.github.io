@@ -31,7 +31,3 @@ a{
 a:hover {
   text-decoration: underline;
 }
-
-.cursor{
-  cursor: url(Images/tear.png), pointer;
-}
