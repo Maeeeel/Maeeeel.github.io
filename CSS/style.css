@@ -2,9 +2,6 @@ body {
   color: purple;
   font-family: Verdana;
   background-color:black;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
 }
 
 h1 {
@@ -33,29 +30,4 @@ a{
 
 a:hover {
   text-decoration: underline;
-}
-
-.cursor {
-  position: relative;
-    width: 100vw;
-    height: 100vh;
-    background-color: #000000; 
-    cursor: none; 
-}
-
-.tearlol {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 50px;
-  height: auto;
-  background: url("chemin_vers_votre_image.jpg") no-repeat;
-  background-size: cover;
-  pointer-events: none;
-  opacity: 0;
-  transition: opacity 0.3s ease;
-}
-
-.cursor:hover .tearlol {
-  opacity: 1;
 }
